@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ListowelAdolwin
-- 👀 I’m interested in software engineering
-- 🌱 I’m currently learning a software engineering course with ALX
+- 👀 I’m interested in Software Engineering
+- 🌱 I’m currently a Computer Science Student in KNUST. I am also learning software engineering course with ALX
 - 📫 How to reach me. My twitter handle:@ListowelAdolwin
 
 <!---
