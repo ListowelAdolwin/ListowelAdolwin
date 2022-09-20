@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ListowelAdolwin
 - 👀 I’m interested in Software Engineering
 - 🌱 I’m currently a Computer Science Student in KNUST. <br/>&nbsp;&nbsp;&nbsp; I am also learning software engineering course with ALX
-- 📫 How to reach me. My twitter handle:@ListowelAdolwin and [LinkedIn](https://www.linkedin.com/in/listowel-adolwin)
+- 📫 How to reach me? My twitter handle:@ListowelAdolwin and [LinkedIn](https://www.linkedin.com/in/listowel-adolwin)
 
 <!---
 ListowelAdolwin/ListowelAdolwin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
