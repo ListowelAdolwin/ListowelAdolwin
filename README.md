@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @ListowelAdolwin
-- 👀 I’m interested in Software Engineering
-- 🌱 I’m currently a Computer Science Student in KNUST. <br/>&nbsp;&nbsp;&nbsp; I am also learning software engineering course with ALX
+- :heart_eyes: I love to code and build cool projects
+- 👀 I have some crazy passion for Software Engineering :heart:
+- 🌱 I’m currently a Computer Science Student in KNUST. <br/>&nbsp;&nbsp;&nbsp; I am also learning Software Engineering with African Leadership 
 - 📫 How to reach me? My twitter handle:@ListowelAdolwin and [LinkedIn](https://www.linkedin.com/in/listowel-adolwin)
 
 <!---
