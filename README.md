@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ListowelAdolwin
 - :heart_eyes: I love to code and build cool projects
 - 👀 I have some crazy passion for Software Engineering :heart:
-- 🌱 I’m currently a Computer Science Student in KNUST. <br/>&nbsp;&nbsp;&nbsp; I am also learning Software Engineering with African Leadership Experience
+- 🌱 I currently study Computer Science at KNUST. <br/>&nbsp;&nbsp;&nbsp; I am also learning Software Engineering with African Leadership Experience
 - 📫 Want to connect? My twitter handle:@ListowelAdolwin and [LinkedIn](https://www.linkedin.com/in/listowel-adolwin)
 
 <!---
