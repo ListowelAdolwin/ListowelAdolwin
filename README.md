@@ -23,7 +23,6 @@
 ## Frameworks
 
 ![Django](https://img.shields.io/badge/-Django-000?&logo=Django)
-![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-000?&logo=Bootstrap)
 ![React](https://img.shields.io/badge/-React-000?&logo=React)
 ![Flutter](https://img.shields.io/badge/-Flutter-000?&logo=Flutter)
