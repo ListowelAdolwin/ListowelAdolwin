@@ -1,11 +1,9 @@
-<!---
-ListowelAdolwin/ListowelAdolwin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-## Hi👋, I'm Listowel Adolwin, a Student and Developer 🚀 from Ghana.
 
-## Contact Me
-[![Portfolio](https://img.shields.io/badge/-Portfolio-yellow?style=flat&logo=Portfolio&logoColor=white)](https://listoweladolwin.github.io/portfolio/)
+## Hi👋, I'm Listowel Adolwin, a CS Student and Developer 🚀 from Ghana.
+### <h4> I am currently working on [StudyMate](https://listowel.pythonanywhere.com/), a web application which connects developers <br> with study buddies to accelerate their learning pace. Want to contribute? Ping me below. </h4>
+
+## Connect with me
+[![Portfolio](https://img.shields.io/badge/-Portfolio-c14438?style=flat&logo=Portfolio&logoColor=white)](https://listoweladolwin.github.io/portfolio/)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/listowel-adolwin/)
 [![Instagram](https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/listoweladolwin/)
 [![Twitter](https://img.shields.io/badge/-Twitter-blue?style=flat&logo=Twitter&logoColor=white)](https://www.twitter.com/ListowelAdolwin/)
@@ -37,6 +35,7 @@ You can click the Preview link to take a look at your changes.
 ![Vscode](https://img.shields.io/badge/-VS%20Code-000?&logo=Visual%20Studio%20Code)
 ![Vim](https://img.shields.io/badge/-Vim-000?&logo=Vim)
 ![Flutter](https://img.shields.io/badge/-Flutter-000?&logo=Flutter)
+
 ## Full Stack Projects
 
 [![](https://img.shields.io/badge/-🧬%20StudyMate-000)](https://listowel.pythonanywhere.com/)
