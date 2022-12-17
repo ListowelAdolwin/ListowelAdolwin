@@ -32,7 +32,7 @@
 ![Git](https://img.shields.io/badge/-Git-000?&logo=Git)
 ![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
 ![Vscode](https://img.shields.io/badge/-VS%20Code-000?&logo=Visual%20Studio%20Code)
-![Vim](https://img.shields.io/badge/-Vim-000?&logo=Vim)
+![Pythonanywhere](https://img.shields.io/badge/-Pythonanywhere-000?&logo=Pythonanywhere)
 
 ## Full Stack Projects
 
