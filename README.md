@@ -33,7 +33,6 @@
 ![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
 ![Vscode](https://img.shields.io/badge/-VS%20Code-000?&logo=Visual%20Studio%20Code)
 ![Vim](https://img.shields.io/badge/-Vim-000?&logo=Vim)
-![Flutter](https://img.shields.io/badge/-Flutter-000?&logo=Flutter)
 
 ## Full Stack Projects
 
