@@ -1,6 +1,6 @@
 
 ## Hi👋, I'm Listowel Adolwin, a CS Student and Developer 🚀 from Ghana.
-### <h4> I am currently working on [StudyMate](https://listowel.pythonanywhere.com/), a web application which connects developers <br> with study buddies to accelerate their learning pace. Want to contribute? Ping me below. </h4>
+### <h4> I am currently working on [StudyMate](https://listowel.pythonanywhere.com/), a web application which connects users <br> with study buddies to accelerate their learning pace. Want to contribute? Ping me below. </h4>
 
 ## Connect with me
 [![Portfolio](https://img.shields.io/badge/-Portfolio-c14438?style=flat&logo=Portfolio&logoColor=white)](https://listoweladolwin.github.io/portfolio/)
