@@ -20,8 +20,8 @@
 ## Frameworks
 
 ![Django](https://img.shields.io/badge/-Django-000?&logo=Django)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-000?&logo=Bootstrap)
 ![React](https://img.shields.io/badge/-React-000?&logo=React)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-000?&logo=Bootstrap)
 ![Flutter](https://img.shields.io/badge/-Flutter-000?&logo=Flutter)
 
 ## Developer Tools
@@ -34,6 +34,7 @@
 ## Full Stack Projects
 
 [![](https://img.shields.io/badge/-🧬%20StudyMate-000)](https://listowel.pythonanywhere.com/)
+[![](https://img.shields.io/badge/-🧬%20JamConnect-000)](https://github.com/ListowelAdolwin/JamConnect)
 [![](https://img.shields.io/badge/-🦠%20AirBnB%20Web%20Application%20Clone-000)](https://listoweladolwin.github.io/portfolio/www.listoweladolwin.tech/hbnb_static/103-index.html)
 [![](https://img.shields.io/badge/-📝%20Shell-000)](https://github.com/ListowelAdolwin/simple_shell)
 [![](https://img.shields.io/badge/-🔬%20Lost%20And%20Found%20App-000)](https://github.com/ListowelAdolwin/lost_and_found_app)
@@ -41,6 +42,7 @@
 
 ## Front End Projects
 
+[![](https://img.shields.io/badge/-💉%20React%20Task%20Tracker-000)](https://github.com/ListowelAdolwin/react-task-tracker)
 [![](https://img.shields.io/badge/-💉%20Personal%20Portfolio-000)](https://listoweladolwin.github.io/portfolio/)
 [![](https://img.shields.io/badge/-🩸%20University%20Website-000)](https://listoweladolwin.github.io/university-website/)
 [![](https://img.shields.io/badge/-🌊%20Grid%20Portfolio-000)](https://listoweladolwin.github.io/grid-portfolio/index.html)
