@@ -30,7 +30,7 @@
 
 ## My Past Projects
 
-[![](https://img.shields.io/badge/-Video-Platform-000)](https://video-platform.onrender.com/)
+[![](https://img.shields.io/badge/-🧬%20Video-Platform-000)](https://video-platform.onrender.com/)
 [![](https://img.shields.io/badge/-🧬%20StudyMate-000)](https://listowel.pythonanywhere.com/)
 [![](https://img.shields.io/badge/-🧬%20JamConnect-000)](https://github.com/ListowelAdolwin/JamConnect)
 [![](https://img.shields.io/badge/-🔬%20Lost%20And%20Found%20App-000)](https://github.com/ListowelAdolwin/lost_and_found_app)
