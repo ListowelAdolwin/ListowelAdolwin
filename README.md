@@ -1,34 +1,33 @@
 
-## Hi👋, I'm Listowel Adolwin, a CS Student and Developer 🚀 from Ghana.
-### <h4> I am currently working on [StudyMate](https://listowel.pythonanywhere.com/), a web application which connects users <br> with study buddies to accelerate their learning pace. Want to contribute? Ping me below. </h4>
-
+## Hi👋, I'm Listowel Adolwin, a final year Computer Science Student and Software Developer 🚀 from Ghana.
+### <h3> I help businesses grow their online presence by building modern, results-oriented websites. Let's chat!. </h3>
+<br>
 ## Connect with me
-[![Portfolio](https://img.shields.io/badge/-Portfolio-c14438?style=flat&logo=Portfolio&logoColor=white)](https://listoweladolwin.github.io/portfolio/)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/listowel-adolwin/)
-[![Twitter](https://img.shields.io/badge/-Twitter-blue?style=flat&logo=Twitter&logoColor=white)](https://www.twitter.com/ListowelAdolwin/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:listoweladolwin@gmail.com)
 
 ## Languages
-
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
-![C](https://img.shields.io/badge/-C-000?&logo=C)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
+![C](https://img.shields.io/badge/-C-000?&logo=C)
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
 ![HTML5](https://img.shields.io/badge/-HTML5-000?&logo=Html5)
 ![CSS3](https://img.shields.io/badge/-CSS-000?&logo=CSS3)
 
 ## Frameworks
-
-![Django](https://img.shields.io/badge/-Django-000?&logo=Django)
+![Nodejs](https://img.shields.io/badge/-Nodejs-000?&logo=Nodejs)
+![Express](https://img.shields.io/badge/-Express-000?&logo=Express)
 ![React](https://img.shields.io/badge/-React-000?&logo=React)
+![Tailwind](https://img.shields.io/badge/-Tailwind-000?&logo=Tailwind)
+![Django](https://img.shields.io/badge/-Django-000?&logo=Django)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-000?&logo=Bootstrap)
-![Flutter](https://img.shields.io/badge/-Flutter-000?&logo=Flutter)
 
 ## Developer Tools
 
 ![Git](https://img.shields.io/badge/-Git-000?&logo=Git)
 ![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
 ![Vscode](https://img.shields.io/badge/-VS%20Code-000?&logo=Visual%20Studio%20Code)
+![Render](https://img.shields.io/badge/-Render-000?&logo=Render)
 ![Pythonanywhere](https://img.shields.io/badge/-Pythonanywhere-000?&logo=Pythonanywhere)
 
 ## Full Stack Projects
