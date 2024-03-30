@@ -4,6 +4,17 @@
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/listowel-adolwin/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:listoweladolwin@gmail.com)
 
+## My Past Works
+
+[![](https://img.shields.io/badge/-🧬%20TertiaryGuide-000)](https://tertiaryguide.com/)
+[![](https://img.shields.io/badge/-🧬%20VideoPlatform-000)](https://video-platform.onrender.com/)
+[![](https://img.shields.io/badge/-🧬%20HostLink-000)](https://hostlinkgh.com/)
+[![](https://img.shields.io/badge/-🧬%20StudyMate-000)](https://listowel.pythonanywhere.com/)
+[![](https://img.shields.io/badge/-🧬%20RealEstate-000)](https://real-estate.onrender.com/)
+[![](https://img.shields.io/badge/-🧬%20JamConnect-000)](https://github.com/ListowelAdolwin/JamConnect)
+[![](https://img.shields.io/badge/-🔬%20Lost%20And%20Found%20App-000)](https://github.com/ListowelAdolwin/lost_and_found_app)
+
+
 ## Languages I Work With
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
@@ -27,16 +38,6 @@
 ![Vscode](https://img.shields.io/badge/-VS%20Code-000?&logo=Visual%20Studio%20Code)
 ![Render](https://img.shields.io/badge/-Render-000?&logo=Render)
 ![Pythonanywhere](https://img.shields.io/badge/-Pythonanywhere-000?&logo=Pythonanywhere)
-
-## My Past Works
-
-[![](https://img.shields.io/badge/-🧬%20TertiaryGuide-000)](https://tertiaryguide.com/)
-[![](https://img.shields.io/badge/-🧬%20VideoPlatform-000)](https://video-platform.onrender.com/)
-[![](https://img.shields.io/badge/-🧬%20HostLink-000)](https://hostlinkgh.com/)
-[![](https://img.shields.io/badge/-🧬%20StudyMate-000)](https://listowel.pythonanywhere.com/)
-[![](https://img.shields.io/badge/-🧬%20RealEstate-000)](https://real-estate.onrender.com/)
-[![](https://img.shields.io/badge/-🧬%20JamConnect-000)](https://github.com/ListowelAdolwin/JamConnect)
-[![](https://img.shields.io/badge/-🔬%20Lost%20And%20Found%20App-000)](https://github.com/ListowelAdolwin/lost_and_found_app)
 
 
 <a href=""><img height="137px" src="https://github-readme-stats.vercel.app/api?username=ListowelAdolwin&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /><!-- wi*quL3fcV --><img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ListowelAdolwin&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=6&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /></a>
