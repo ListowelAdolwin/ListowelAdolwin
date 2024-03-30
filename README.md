@@ -4,7 +4,7 @@
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/listowel-adolwin/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:listoweladolwin@gmail.com)
 
-## Languages
+## Languages I Work With
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
 ![C](https://img.shields.io/badge/-C-000?&logo=C)
@@ -28,16 +28,13 @@
 ![Render](https://img.shields.io/badge/-Render-000?&logo=Render)
 ![Pythonanywhere](https://img.shields.io/badge/-Pythonanywhere-000?&logo=Pythonanywhere)
 
-## Full Stack Projects
+## My Past Projects
 
+[![](https://img.shields.io/badge/-Video-Platform-000)](https://video-platform.onrender.com/)
 [![](https://img.shields.io/badge/-🧬%20StudyMate-000)](https://listowel.pythonanywhere.com/)
 [![](https://img.shields.io/badge/-🧬%20JamConnect-000)](https://github.com/ListowelAdolwin/JamConnect)
-[![](https://img.shields.io/badge/-🦠%20AirBnB%20Web%20Application%20Clone-000)](https://listoweladolwin.github.io/portfolio/www.listoweladolwin.tech/hbnb_static/103-index.html)
-[![](https://img.shields.io/badge/-📝%20Shell-000)](https://github.com/ListowelAdolwin/simple_shell)
 [![](https://img.shields.io/badge/-🔬%20Lost%20And%20Found%20App-000)](https://github.com/ListowelAdolwin/lost_and_found_app)
 
-
-## Front End Projects
 
 [![](https://img.shields.io/badge/-💉%20React%20Task%20Tracker-000)](https://github.com/ListowelAdolwin/react-task-tracker)
 [![](https://img.shields.io/badge/-💉%20Personal%20Portfolio-000)](https://listoweladolwin.github.io/portfolio/)
