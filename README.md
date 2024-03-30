@@ -19,7 +19,6 @@
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
 ![C](https://img.shields.io/badge/-C-000?&logo=C)
-![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
 ![HTML5](https://img.shields.io/badge/-HTML5-000?&logo=Html5)
 ![CSS3](https://img.shields.io/badge/-CSS-000?&logo=CSS3)
 
@@ -30,6 +29,11 @@
 ![Tailwind](https://img.shields.io/badge/-Tailwind-000?&logo=Tailwind)
 ![Django](https://img.shields.io/badge/-Django-000?&logo=Django)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-000?&logo=Bootstrap)
+
+## Databases
+![MySQL](https://img.shields.io/badge/-MySQL-000?&logo=MySQL)
+![MongoDb](https://img.shields.io/badge/-MongoDB-000?&logo=mongodb)
+![Posgre](https://img.shields.io/badge/-PosgreSQL-000?&logo=Posgres)
 
 ## Developer Tools
 
