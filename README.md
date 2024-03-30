@@ -28,9 +28,11 @@
 ![Render](https://img.shields.io/badge/-Render-000?&logo=Render)
 ![Pythonanywhere](https://img.shields.io/badge/-Pythonanywhere-000?&logo=Pythonanywhere)
 
-## My Past Projects
+## My Past Works
 
+[![](https://img.shields.io/badge/-🧬%20TertiaryGuide-000)](https://tertiaryguide.com/)
 [![](https://img.shields.io/badge/-🧬%20VideoPlatform-000)](https://video-platform.onrender.com/)
+[![](https://img.shields.io/badge/-🧬%20HostLink-000)](https://hostlinkgh.com/)
 [![](https://img.shields.io/badge/-🧬%20StudyMate-000)](https://listowel.pythonanywhere.com/)
 [![](https://img.shields.io/badge/-🧬%20RealEstate-000)](https://real-estate.onrender.com/)
 [![](https://img.shields.io/badge/-🧬%20JamConnect-000)](https://github.com/ListowelAdolwin/JamConnect)
