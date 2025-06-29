@@ -7,6 +7,7 @@
 ## My Past Works
 
 [![](https://img.shields.io/badge/-🧬%20TertiaryGuide-000)](https://tertiaryguide.com/)
+[![](https://img.shields.io/badge/-🧬%20Quickspace-000)](https://quickspacegh.com/)
 [![](https://img.shields.io/badge/-🧬%20VideoPlatform-000)](https://video-platform.onrender.com/)
 [![](https://img.shields.io/badge/-🧬%20HostLink-000)](https://hostlinkgh.com/)
 [![](https://img.shields.io/badge/-🧬%20StudyMate-000)](https://listowel.pythonanywhere.com/)
@@ -16,6 +17,7 @@
 
 
 ## Languages I Work With
+![Java](https://img.shields.io/badge/-Java-000?&logo=Java)
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
 ![C](https://img.shields.io/badge/-C-000?&logo=C)
@@ -23,6 +25,7 @@
 ![CSS3](https://img.shields.io/badge/-CSS-000?&logo=CSS3)
 
 ## Frameworks
+![Spring Boot](https://img.shields.io/badge/-Spring_Boot-000?&logo=SpringBoot)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-000?&logo=Nodejs)
 ![Express](https://img.shields.io/badge/-Express-000?&logo=Express)
 ![React](https://img.shields.io/badge/-React-000?&logo=React)
@@ -33,10 +36,13 @@
 ## Databases
 ![MySQL](https://img.shields.io/badge/-MySQL-000?&logo=MySQL)
 ![MongoDb](https://img.shields.io/badge/-MongoDB-000?&logo=mongodb)
+![DynamoDB](https://img.shields.io/badge/-DynamoDB-000?&logo=DynamoDB)
 ![Posgre](https://img.shields.io/badge/-PosgreSQL-000?&logo=Posgres)
 
-## Developer Tools
+## Cloud and Devops
 
+![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
+![AWS](https://img.shields.io/badge/-AWS-000?&logo=AWS)
 ![Git](https://img.shields.io/badge/-Git-000?&logo=Git)
 ![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
 ![Vscode](https://img.shields.io/badge/-VS%20Code-000?&logo=Visual%20Studio%20Code)
