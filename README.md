@@ -1,5 +1,5 @@
 
-## Hi👋, I'm Listowel Adolwin, a Final Year Computer Science Student and Software Developer 🚀 from Ghana.
+## Hi👋, I'm Listowel Adolwin, a Computer Science graduate and Software Developer 🚀 from Ghana.
 ### <h3> I help businesses grow their online presence by building modern, results-oriented websites. Let's chat!. </h3>
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/listowel-adolwin/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:listoweladolwin@gmail.com)
